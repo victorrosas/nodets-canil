@@ -5,7 +5,7 @@ Projeto feito no módulo do curso Node + Typescript - B7Web
 `npm install -g nodemon typescript ts-node`
 
 ### Instalação
-`npm install``
+`npm install`
 
 ### Para rodar o projeto
 `npm run start-dev`
